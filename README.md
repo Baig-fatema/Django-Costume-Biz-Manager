@@ -2,6 +2,8 @@
 
 **Django-Costume-Biz-Manager** is a comprehensive Costume Business Management System built with Django. It provides an admin panel for managing vendors, customers, costume categories, products, purchases, sales, available stocks, and inventory tables.
 
+![home view](home_view.png)
+
 ## Features
 
 - **Vendor Management**: Manage and track vendors.
@@ -13,6 +15,13 @@
 - **Available Stocks**: Monitor stock levels and availability.
 - **Inventory Management**: Oversee inventory data and updates.
 
+## Prerequisites
+
+Before running the application, ensure you have the following installed:
+
+- Python 3.x
+- pip (Python package installer)
+  
 ## Installation
 
 Follow these steps to set up and run the Django-Costume-Biz-Manager project on your local machine:
@@ -70,7 +79,51 @@ Follow these steps to set up and run the Django-Costume-Biz-Manager project on y
      python manage.py runserver
      ```
 
-  ## Author
+### Usage
+1. **Access the Admin Panel**
+
+   Open your web browser and navigate to http://127.0.0.1:8000/admin. Log in using the superuser credentials you       created.
+
+2. **Manage Vendors**
+
+   Use the admin panel to add, edit, or delete vendor information.
+
+3. **Manage Customers**
+
+   Add and manage customer details and records through the admin interface.
+
+4. **Define Costume Categories**
+
+   Create and organize costume categories for better product management.
+
+5. **Manage Products**
+
+   Add new products, update existing ones, and manage product details.
+
+6. **Track Purchases**
+
+   Record and monitor purchases from vendors to keep track of inventory.
+
+7. **Record Sales**
+
+   Manage sales transactions and update sales records.
+
+8.**Monitor Available Stocks**
+
+   Check and update the availability of stock for each product.
+
+9. **Oversee Inventory**
+
+   Use inventory tables to manage and update inventory information.
+
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Contact
+For questions or feedback, reach out to mirzafatmabaig1012@gmail.com.
+
+### Author
+[Baig-Fatem](https://github.com/Baig-fatema)
   
      
 
