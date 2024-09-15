@@ -82,7 +82,7 @@ Follow these steps to set up and run the Django-Costume-Biz-Manager project on y
 ### Usage
 1. **Access the Admin Panel**
 
-   Open your web browser and navigate to http://127.0.0.1:8000/admin. Log in using the superuser credentials you       created.
+   Open your web browser and navigate to http://127.0.0.1:8000  Log in using the superuser credentials you       created.
 
 2. **Manage Vendors**
 
