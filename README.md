@@ -116,6 +116,11 @@ Follow these steps to set up and run the Django-Costume-Biz-Manager project on y
 
    Use inventory tables to manage and update inventory information.
 
+### Troubleshooting
+
+  **'Invalid filter: 'length_is' Error in Django Template – How to Fix?**
+     please refer ['Invalid filter: 'length_is' Error in Django Template – How to Fix?](https://stackoverflow.com/questions/78874958/invalid-filter-length-is-error-in-django-template-how-to-fix)
+
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -123,7 +128,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions or feedback, reach out to mirzafatmabaig1012@gmail.com.
 
 ### Author
-[Baig-Fatem](https://github.com/Baig-fatema)
+[Baig-Fatema](https://github.com/Baig-fatema)
   
      
 
